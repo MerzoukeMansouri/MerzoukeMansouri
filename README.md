@@ -29,6 +29,8 @@ Staff-level engineering at **M14i** — building systems that scale, developer t
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxtdotjs&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Aurelia](https://img.shields.io/badge/Aurelia-ED2B88?style=flat&logo=aurelia&logoColor=white)
 
 **DevOps & Infrastructure**
 
