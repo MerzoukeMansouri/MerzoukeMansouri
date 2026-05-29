@@ -24,6 +24,8 @@ Staff-level engineering at **M14i** — building systems that scale, developer t
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![WebFlux](https://img.shields.io/badge/WebFlux-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxtdotjs&logoColor=black)
 
@@ -49,6 +51,7 @@ Staff-level engineering at **M14i** — building systems that scale, developer t
 | [**turbine-navigator**](https://github.com/MerzoukeMansouri/turbine-navigator) | Chrome extension that makes internal navigation tolerable |
 | [**sith**](https://github.com/MerzoukeMansouri/sith) | Dockerized environments for standardizing and sharing dev setups |
 | [**k9s-plugins**](https://github.com/MerzoukeMansouri/k9s-plugins) | Plugins that make K9s even more dangerous in the right hands |
+| [**mozaic-mcp**](https://github.com/MerzoukeMansouri/mozaic-mcp) | MCP server exposing Mozaic Design System to AI coding agents |
 
 ---
 
